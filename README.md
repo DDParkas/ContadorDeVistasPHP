@@ -1,5 +1,4 @@
 
-<img src="https://studiopinus.com/wp-content/uploads/2019/01/f.jpg" align="center"></img>
 <h1 align="center">Contador de Vistas em PHP</h1>
 
 <p align="center">
@@ -11,7 +10,6 @@
 ## Como usar
 Este é um contador que gera um arquivo e um cookie, o cookie é usado para saber quantas vezes a mesma pessoa acessou no período em que o cookie ficou ativo, já no arquivo atualiza uma variável que guarda a quantidade de acessos que o site teve.
 
-Veja mais em [Studio Pinus](https://studiopinus.com)
 
 ## Licença
 
